@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1672405571 source:c:\users\schueler\desktop\schule\sw\c\enum\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<stdbool.h>
-
